@@ -1,0 +1,5 @@
+/home/yunik/LinkNode/work/CMakeFiles/rebuild_cache.dir
+/home/yunik/LinkNode/work/CMakeFiles/edit_cache.dir
+/home/yunik/LinkNode/work/src/CMakeFiles/rebuild_cache.dir
+/home/yunik/LinkNode/work/src/CMakeFiles/LinkNode.dir
+/home/yunik/LinkNode/work/src/CMakeFiles/edit_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yunik/LinkNode/Linx/build/src",
+  "command": "/usr/bin/g++   -I/usr/include/opencv  -g   -o CMakeFiles/LinkNode.dir/LinkList.cpp.o -c /home/yunik/LinkNode/Linx/src/LinkList.cpp",
+  "file": "/home/yunik/LinkNode/Linx/src/LinkList.cpp"
+}
+]
