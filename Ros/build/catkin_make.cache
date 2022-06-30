@@ -1,0 +1,2 @@
+printHelloRosPK
+-DCATKIN_DEVEL_PREFIX=/home/yunik/HelloRos/devel -DCMAKE_INSTALL_PREFIX=/home/yunik/HelloRos/install -G Unix Makefiles

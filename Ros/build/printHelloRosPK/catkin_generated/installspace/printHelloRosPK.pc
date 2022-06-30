@@ -1,0 +1,8 @@
+prefix=/home/yunik/HelloRos/install
+
+Name: printHelloRosPK
+Description: Description of printHelloRosPK
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
